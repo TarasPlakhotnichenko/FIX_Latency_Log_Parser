@@ -1,0 +1,6 @@
+FIX STATS: 
+time  | trade id | fix in time  ms | fix out time ms | latency
+
+Count: 4085, Max: 1073, Avarage: 130.880538555692, Min: 61
+
+For more details: http://nagios.open.ru/twiki/bin/view/OSL/FixDelaysReport
